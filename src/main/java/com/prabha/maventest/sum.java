@@ -6,6 +6,11 @@ package com.prabha.maventest;
  */
 public class sum 
 {
+	public sum() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	public static int SumOfDigits(int n) {
 		int sum = 0;
 		while (n != 0) {
