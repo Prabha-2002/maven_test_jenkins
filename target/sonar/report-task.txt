@@ -1,0 +1,6 @@
+projectKey=New_Jenkins
+serverUrl=http://localhost:9000
+serverVersion=9.9.4.87374
+dashboardUrl=http://localhost:9000/dashboard?id=New_Jenkins
+ceTaskId=AZD89QocVF3OTjFxobfU
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZD89QocVF3OTjFxobfU
