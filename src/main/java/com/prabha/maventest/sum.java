@@ -4,9 +4,9 @@ package com.prabha.maventest;
  * Hello world!
  *
  */
-public class sum 
+public class Sum 
 {
-	public sum() {
+	public Sum() {
 		super();
 		// TODO Auto-generated constructor stub
 	}

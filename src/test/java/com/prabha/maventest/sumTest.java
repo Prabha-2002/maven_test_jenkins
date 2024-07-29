@@ -4,11 +4,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class sumTest {
+class SumTest {
 
 	@Test
 	void testSumOfDigits() {
-		assertEquals(10,sum.SumOfDigits(55));
+		assertEquals(10,Sum.SumOfDigits(55));
 
 	}
 
